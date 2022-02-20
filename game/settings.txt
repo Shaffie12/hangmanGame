@@ -1,0 +1,4 @@
+sample.txt
+Easy 1,5
+Medium 6,10
+Hard 10,50
